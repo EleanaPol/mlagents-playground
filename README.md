@@ -24,7 +24,7 @@ Windows Standalone/Mac
 * Anaconda
 * python 3.8 
  
-2. Open Anaconda prompt and create a virtual environment by typing 
+2. Open Anaconda prompt and create a virtual environment by typing: 
 ```bash
 conda create -n mlagents_play_env python=3.8
 
@@ -34,7 +34,7 @@ as seen in this [video](https://youtu.be/Yix4iV_io6o?t=58)
 -```mlagents_play_env``` *is the name of the virtual environment*  
 -```python=3.8``` *specifies the version of python this environment will run with*  
 
-3. Activate the virtual environment by running  
+3. Activate the virtual environment by running:  
  ```bash
  conda activate mlagents_play_env
  ```  
