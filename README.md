@@ -37,4 +37,5 @@ as seen in this [video](https://youtu.be/Yix4iV_io6o?t=58)
 3. Activate the virtual environment by running  
  ```bash
  conda activate mlagents_play_env
- ```
+ ```  
+4. Then you need to install ```mlagents``` and ```mlagents_envs``` python packages from the cloned ml-agents repository. In the activated virtual environment, navigate to the directory of the cloned repo. 
