@@ -38,4 +38,4 @@ as seen in this [video](https://youtu.be/Yix4iV_io6o?t=58)
  ```bash
  conda activate mlagents_play_env
  ```  
-4. Then you need to install separately the ```mlagents``` and ```mlagents_envs``` python packages from the cloned ml-agents repository. In the activated virtual environment, navigate to the directory of the cloned repo. 
+4. Then you need to install separately the ```mlagents``` and ```mlagents_envs``` python packages from the cloned ml-agents repository as stated in the [advanced instructions](https://github.com/Unity-Technologies/ml-agents/blob/release_18_docs/docs/Installation.md#advanced-local-installation-for-development-2). In the activated virtual environment, navigate to the directory of the cloned repo. 
