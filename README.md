@@ -38,4 +38,9 @@ as seen in this [video](https://youtu.be/Yix4iV_io6o?t=58)
  ```bash
  conda activate mlagents_play_env
  ```  
-4. Then you need to install separately the ```mlagents``` and ```mlagents_envs``` python packages from the cloned ml-agents repository as stated in the [advanced instructions](https://github.com/Unity-Technologies/ml-agents/blob/release_18_docs/docs/Installation.md#advanced-local-installation-for-development-2). In the activated virtual environment, navigate to the directory of the cloned repo. 
+4. Then you need to install separately the ```mlagents```, ```mlagents_envs``` and ```pytorch``` python packages from the cloned ml-agents repository as stated in the [advanced instructions](https://github.com/Unity-Technologies/ml-agents/blob/release_18_docs/docs/Installation.md#advanced-local-installation-for-development-2). In the activated virtual environment, navigate to the directory of the cloned repo and install the packages in the following order. 
+```
+pip3 install torch -f https://download.pytorch.org/whl/torch_stable.html
+pip3 install -e ./ml-agents-envs
+pip3 install -e ./ml-agents
+```
