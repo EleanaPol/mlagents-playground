@@ -19,5 +19,6 @@ Start new unity project and add the following:
 * *com.unity.ml-agents* package
 * *com.unity.ml-agents.extensions* package (only accessible locally when you clone the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents))
 ### Python
-* Download and install Anaconda
-* Download and install python 3.8
+Download and install:
+* Anaconda
+* python 3.8
