@@ -15,16 +15,16 @@ Windows Standalone/Mac
 
 ## Set-Up & Dependencies
 ### Unity
-Clone/Download the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents)   
-Start new unity project and add the following:
+1. Clone/Download the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents)   
+2. Start a new unity project and add the following:
 * *com.unity.ml-agents* package
 * *com.unity.ml-agents.extensions* package (only accessible locally when you clone the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents))
 ### Python
-Download and install:
+1. Download and install:
 * Anaconda
 * python 3.8 
  
-Open Anaconda prompt and create a virtual environment by typing 
+2. Open Anaconda prompt and create a virtual environment by typing 
 ```bash
 conda create -n mlagents_play_env python=3.8
 
@@ -32,4 +32,6 @@ conda create -n mlagents_play_env python=3.8
 as seen in this [video](https://youtu.be/Yix4iV_io6o?t=58)  
 
 -```mlagents_play_env``` *is the name of the virtual environment*  
--```python=3.8``` *specifies the version of python this environment will run with*
+-```python=3.8``` *specifies the version of python this environment will run with*  
+3. Activate the virtual environment by running 
+```conda activate mlagents_play_env```
