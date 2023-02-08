@@ -23,4 +23,8 @@ Download and install:
 * Anaconda
 * python 3.8 
  
-Open Anaconda prompt and create a virtual environment by typing '''conda create -n mlagents_play_env python=3.8''' as seen in this [video](https://youtu.be/Yix4iV_io6o?t=58)
+Open Anaconda prompt and create a virtual environment by typing 
+'''
+conda create -n mlagents_play_env python=3.8
+''' 
+as seen in this [video](https://youtu.be/Yix4iV_io6o?t=58)
