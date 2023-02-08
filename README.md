@@ -15,5 +15,5 @@ Windows Standalone/Mac
 
 ## Set-Up & Dependencies
 ### Unity Packages
-* com.unity.ml-agents
-* com.unity.ml-agents.extensions (only accessible locally when you clone the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents))
+* *com.unity.ml-agents*
+* *com.unity.ml-agents.extensions (only accessible locally when you clone the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents))*
