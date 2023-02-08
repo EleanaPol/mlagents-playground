@@ -28,6 +28,7 @@ Open Anaconda prompt and create a virtual environment by typing
 conda create -n mlagents_play_env python=3.8
 
 ``` 
-as seen in this [video](https://youtu.be/Yix4iV_io6o?t=58)
-/// mlagents_play_env is the name of the virtual environment
-/// python=3.8 specifies the version of python this environment will run with
+as seen in this [video](https://youtu.be/Yix4iV_io6o?t=58)  
+
+*- mlagents_play_env is the name of the virtual environment  
+*- python=3.8 specifies the version of python this environment will run with
