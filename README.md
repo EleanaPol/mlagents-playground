@@ -22,3 +22,4 @@ Start new unity project and add the following:
 Download and install:
 * Anaconda
 * python 3.8
+Open Anaconda prompt and create a virtual environment as seen in this [video](https://youtu.be/Yix4iV_io6o?t=58)
