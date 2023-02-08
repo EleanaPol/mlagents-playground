@@ -15,7 +15,7 @@ Windows Standalone/Mac
 
 ## Set-Up & Dependencies
 ### Unity
-Clone the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents)   
+Clone/Download the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents)   
 Start new unity project and add the following:
 * *com.unity.ml-agents* package
 * *com.unity.ml-agents.extensions* package (only accessible locally when you clone the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents))
