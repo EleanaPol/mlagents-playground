@@ -14,8 +14,9 @@ Unity 2022.1.23
 Windows Standalone/Mac
 
 ## Set-Up & Dependencies
-### Unity Packages
-* *com.unity.ml-agents*
-* *com.unity.ml-agents.extensions* (only accessible locally when you clone the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents))
-### Anaconda
-### Python 3.8
+### Unity
+* *com.unity.ml-agents* package
+* *com.unity.ml-agents.extensions* package (only accessible locally when you clone the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents))
+### Python
+* Download and install Anaconda
+* Download and install python 3.8
