@@ -44,3 +44,8 @@ pip3 install torch -f https://download.pytorch.org/whl/torch_stable.html
 pip3 install -e ./ml-agents-envs
 pip3 install -e ./ml-agents
 ```
+5. In order to be able to start the training you need to navigate from the acanonda prompt to the directory where your unity project is located and simply run
+```
+mlagents-learn
+```
+just to test that everything is working properly. If so you should see an ascii representation of the unity logo.
