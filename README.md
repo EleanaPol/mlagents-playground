@@ -57,7 +57,7 @@ for example:
 ```
 mlagents-learn --run-id=nn_test
 ```
-6. To track the training through [Tensorboard](https://www.tensorflow.org/tensorboard) you need to open a new window of the anaconda prompt, go into the virtual environment and navigate to the directory where your unity project lives. You can then type
+6. To track the training through [Tensorboard](https://www.tensorflow.org/tensorboard) you need to open a new window of the anaconda prompt, activate the virtual environment and navigate to the directory where your unity project lives. You can then type
 ```
 tensorboard --logdir results
 ```
