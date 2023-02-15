@@ -48,5 +48,6 @@ pip3 install -e ./ml-agents
 ```
 mlagents-learn
 ```
-just to test that everything is working properly. If so you should see an ascii representation of the unity logo.
+just to test that everything is working properly. If so you should see an ascii representation of the unity logo.  
+
 ![Image](https://github.com/EleanaPol/mlagents-playground/blob/main/Resources/training.PNG)
