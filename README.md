@@ -50,4 +50,10 @@ mlagents-learn
 ```
 just to test that everything is working properly. If so you should see an ascii representation of the unity logo.  
 
-![Image](https://github.com/EleanaPol/mlagents-playground/blob/main/Resources/training.PNG)
+![Image](https://github.com/EleanaPol/mlagents-playground/blob/main/Resources/training.PNG)  
+
+For every different training session, you will get a new neural network so make sure you name the sessions with the corresponding id.  
+for example:
+```
+mlagents-learn --run-id=nn_test
+```
