@@ -57,3 +57,8 @@ for example:
 ```
 mlagents-learn --run-id=nn_test
 ```
+6. To track the training through Tensorboard you need to open a new window of the anaconda prompt, go into the virtual environment and navigate to the directory where your unity project lives. You can then type
+```
+tensorboard --logdir results
+```
+If you opened it correctly you should be able to track your training progress by visiting [http://http://localhost:6006/](http://http://localhost:6006/)
