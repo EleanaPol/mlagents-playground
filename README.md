@@ -61,4 +61,7 @@ mlagents-learn --run-id=nn_test
 ```
 tensorboard --logdir results
 ```
-If you opened it correctly you should be able to track your training progress by visiting [http://http://localhost:6006/](http://http://localhost:6006/)
+If you opened it correctly you should be able to track your training progress by visiting [http://http://localhost:6006/](http://http://localhost:6006/)  
+  
+### * Navigating to a desired directory via the terminal
+* To change the drive location type the corresponding the drive you want to go to followed by the ":" symbol.
