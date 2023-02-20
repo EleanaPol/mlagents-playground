@@ -80,3 +80,5 @@ Please visit the links below for some useful tips on using the terminal to navig
 * [link 1](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101)
 * [link 2](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/)
 * [link 3](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/)
+### * Useful Resources for ML Agents and Reinforcement Learning
+* All ML Agents videos from [Bot Academy](https://www.youtube.com/watch?v=1bn9Lx2DDa0&list=PL8fePt58xRPY1-pkhMPus3GlUGXNdqMH5), only listing the first one here.
