@@ -18,7 +18,13 @@ Windows Standalone/Mac
 1. Clone/Download the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents)   
 2. Start a new unity project and add the following:
 * *com.unity.ml-agents* package
-* *com.unity.ml-agents.extensions* package (only accessible locally when you clone the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents))
+* *com.unity.ml-agents.extensions* package (only accessible locally when you clone the [ml-agents repo](https://github.com/Unity-Technologies/ml-agents))  
+See Below how to install packages either directly from the package manager or from a local directory:  
+
+
+https://user-images.githubusercontent.com/45208539/220154622-97d3cfa4-5f2d-4656-a650-eec7ecd4f001.mp4
+
+
 ### Python
 1. Download and install:
 * Anaconda
