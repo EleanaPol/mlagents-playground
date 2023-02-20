@@ -70,4 +70,7 @@ tensorboard --logdir results
 If you opened it correctly you should be able to track your training progress by visiting [http://http://localhost:6006/](http://http://localhost:6006/)  
   
 ### * Navigating to a desired directory via the terminal
-* To change the drive location type the corresponding the drive you want to go to followed by the ":" symbol.
+Pleae see below useful links for using the terminal to navigate your directories:  
+* [resource 1](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101)
+* [resource 2](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/)
+* [resource 3](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/)
