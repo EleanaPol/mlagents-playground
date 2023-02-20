@@ -82,3 +82,6 @@ Please visit the links below for some useful tips on using the terminal to navig
 * [link 3](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/)
 ### * Useful Resources for ML Agents and Reinforcement Learning
 * All ML Agents videos from [Bot Academy](https://www.youtube.com/watch?v=1bn9Lx2DDa0&list=PL8fePt58xRPY1-pkhMPus3GlUGXNdqMH5), only listing the first one here.
+* [Unity ML-Agents Toolkit Documentation](https://github.com/Unity-Technologies/ml-agents/blob/release_2/docs/Readme.md), it says everything you need to know!
+* [Introduction to Reinforcement Learning](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419), by Thomas Simonini.
+* [An Introduction to Unity ML-Agents](https://towardsdatascience.com/an-introduction-to-unity-ml-agents-6238452fcf4c), by Thomas Simonini.
